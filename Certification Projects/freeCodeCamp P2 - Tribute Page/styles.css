@@ -1,0 +1,44 @@
+body {
+    font-family: Verdana, sans-serif;
+    text-align: center;
+    color: #333;
+    font-size: 16px;
+}
+
+#image {
+    max-width: 100%;
+    display: block;
+    height: auto;
+    margin: 0 auto;
+    align-self: center;
+}
+
+#main {
+    margin: 30px 8px;
+    padding: 15px;
+    border-radius: 5px;
+    background: #eee;
+}
+
+h1,
+p {
+    display: flex;
+    justify-content: center;
+}
+
+h1 {
+    padding-top: 10px;
+    padding-bottom: -3px;
+    font-size: 40px;
+}
+
+#img-div {
+    background: white;
+    padding: 10px 75px;
+    margin: 0;
+}
+
+h2 {
+    padding: 10px 0;
+    font-size: 22px;
+}
