@@ -50,13 +50,15 @@ section p {
 }
 
 #types > li {
-    margin-left: 50px;
+    margin-left: 0px;
     margin-top: 15px;
 }
 
 #primitives li {
     margin-top: 15px;
     margin-left: 25px;
+    margin: 0;
+    padding: 0;
 }
 
 #navbar {
